@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<voice-interaction-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:recognitionService="com.example.assistlogger.AssistService"
+    android:sessionService="com.example.assistlogger.AssistSessionService"
+    android:supportsAssist="true"
+    />
